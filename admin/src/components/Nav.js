@@ -1,3 +1,4 @@
+import React from 'react'
 import { HeaderNav } from 'strapi-helper-plugin'
 
 import pluginId from '../pluginId'

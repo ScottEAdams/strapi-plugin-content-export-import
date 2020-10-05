@@ -3,8 +3,7 @@
  * Export Page
  *
  */
-
-import { memo, useEffect, useState } from 'react'
+import React, { memo, useEffect, useState } from 'react'
 // import PropTypes from 'prop-types';
 import { map } from 'lodash'
 import { List, ListWrapper, PluginHeader } from 'strapi-helper-plugin'

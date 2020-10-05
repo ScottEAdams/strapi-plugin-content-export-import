@@ -4,7 +4,7 @@
  * contain code that should be seen on all pages. (e.g. navigation bar)
  *
  */
-
+import React from 'react'
 import { Redirect, Route, Switch } from 'react-router-dom'
 import { ErrorBoundary } from 'strapi-helper-plugin'
 // Utils

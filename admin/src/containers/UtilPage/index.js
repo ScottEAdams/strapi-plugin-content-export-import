@@ -1,4 +1,4 @@
-import { memo, useEffect, useState } from 'react'
+import React, { memo, useEffect, useState } from 'react'
 // import PropTypes from 'prop-types';
 import { Button, InputSelect, PluginHeader } from 'strapi-helper-plugin'
 
